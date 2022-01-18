@@ -1,1 +1,11 @@
-= Owner of mindfav.com = Member of cadewa = Building free open source for the medical sector =
+= Owner of mindfav.com = Building shops, plugins and apps =
+
+Love:
+
+* Amiga 500
+* Demoscene
+* Chiptunes
+* Shopware
+* PHP
+* C#
+* Web-stuff: html, css, js
