@@ -1,13 +1,5 @@
 = Owner of mindfav.com = Building shops, plugins and apps =
 
-Love:
-
-* Amiga 500
-* Demoscene
-* Chiptunes
-* Shopware
-* PHP
-* C#
-* Web-stuff: html, css, js
-* Stay Forever Podcast: Ein Podcast über alte Spiele, von zwei alten Männern. 
-* Adminer
+You can hire me as a software developer.
+I am a developer for online shops, especially shopware.
+but I also develop platforms and websites - full stack.
