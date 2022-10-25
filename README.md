@@ -1,5 +1,1 @@
-= Owner of mindfav.com = Building shops, plugins and apps =
-
-You can hire me as a software developer.
-I am a developer for online shops, especially shopware.
-but I also develop platforms and websites - full stack.
+I am trying to build something, that helps people. Here you'll find stuff to start a business. At the moment there is a couple of shopware related content, some jtl and backup management tools, as well as project management tools. Upcoming are also freeware tools for the medical sector, that I am developing in a free relationship with a company called CannaSensitive.
