@@ -1,1 +1,1 @@
-It's a great day for jousting!
+It's a great day for pinball.
