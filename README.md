@@ -12,4 +12,4 @@ This github account mainly focuses on:
 
 I would be very happy if you support my work with a subscription by my Patreon creator account:
 
-https://patreon.com/sfxon?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+[Visit my Patreon page](https://patreon.com/sfxon?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
