@@ -10,4 +10,4 @@ This github account mainly focuses on:
 
 ## Support me
 
-I would be very happy if you support my work with a donation.
+Please support my work with a donation. It will make me very happy. :)
