@@ -1,13 +1,8 @@
 Hi, my name is Steve and I am a developer.
 
-I mainly use a symfony stack.
-My main expertise is in *Shopware 6* these days, but I have years of experience in different sectors.
+I aim at two different things:
 
-This github account mainly focuses on:
+* Making something beautiful.
+* Making something useful.
 
-* Tools and software I am developing **and**
-* Shopware 6 Plugins
-
-## Support me
-
-Please support my work with a donation. It will make me very happy. :)
+May they play together or may they be the complete opposite in each of the projects.
