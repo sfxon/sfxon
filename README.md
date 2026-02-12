@@ -1,6 +1,3 @@
-Hi, my name is Steve and I am a developer.
+Hi, my name is Steve.
 
-I aim at two different things:
-
-* Making something beautiful.
-* Making something useful.
+I develop and build interactive games and large-scale physical experiences, creating playful environments where people can connect, compete, and have fun together. Each project is designed to be memorable, hands-on, and social, encouraging collaboration, friendly competition, and active participation.
